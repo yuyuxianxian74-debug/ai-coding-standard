@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "AI Coding Standard"
+  },
+  "description": "\u4eba\u7c7b\u4e3b\u5bfc\u3001\u9879\u76ee\u9002\u914d\u7684 AI \u8f6f\u4ef6\u5f00\u53d1\u89c4\u8303\u53ca\u5168\u751f\u547d\u5468\u671f\u5de5\u4f5c\u6d41\u3002",
+  "interface": {
+    "capabilities": [],
+    "category": "Productivity",
+    "defaultPrompt": [
+      "\u521d\u59cb\u5316\u9879\u76ee\u5e76\u5236\u5b9a\u4e13\u5c5e\u89c4\u8303",
+      "\u6309\u89c4\u8303\u63a8\u8fdb\u5f53\u524d\u5f00\u53d1\u4efb\u52a1",
+      "\u6309\u89c4\u8303\u63a5\u7ba1\u5e76\u5ba1\u67e5\u73b0\u6709\u9879\u76ee"
+    ],
+    "developerName": "AI Coding Standard",
+    "displayName": "AI Coding Standard",
+    "longDescription": "\u6309\u9879\u76ee\u5b9a\u5236\u89c4\u8303\uff0c\u4f18\u5148\u8c03\u7814\u590d\u7528\uff0cSDD\u3001\u589e\u91cf\u5f00\u53d1\u3001\u72ec\u7acb\u9a8c\u8bc1\u3001\u5ba1\u67e5\u3001\u90e8\u7f72\u4e0e\u590d\u76d8\u3002",
+    "shortDescription": "\u89c4\u8303\u5316 AI \u8f6f\u4ef6\u5f00\u53d1"
+  },
+  "keywords": [],
+  "name": "ai-coding-standard",
+  "skills": "./skills",
+  "version": "1.0.0"
+}
